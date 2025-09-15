@@ -8,7 +8,7 @@ Aqui estão reunidos os códigos que desenvolvi para **praticar lógica de progr
 ## 🎯 Objetivo
 Este repositório tem como foco:
 - Fixar **conceitos básicos e intermediários** de Java;
-- Praticar estruturas de dados;
+- Praticar estruturas de dados e lógica de programação;
 - Criar uma base de exercícios que mostrem minha **evolução como programador**.
 
 ---
